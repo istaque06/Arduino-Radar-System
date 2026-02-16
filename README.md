@@ -26,4 +26,6 @@ This project implements a radar system using Arduino and an ultrasonic sensor to
 - IoT integration
 
 ## Author
-Md Istaque Ansari
+Md Istaque Ansari  
+Electronics & Communication Engineering Student  
+Focused on Embedded Systems & Real-World Hardware Projects.
